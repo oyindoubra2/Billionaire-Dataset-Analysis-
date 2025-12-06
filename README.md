@@ -4,6 +4,7 @@
 To analyze global billionaire’s trends by exploring their distribution across countries and industries, alongside demographic factors like age, gender, self-made status. 
 
 ### Dataset Description
+Dataset size: 1 Excel file with 24 columns and 476 rows <br>
 The dataset contains detailed information on global billionaires with fields including; 
 -	Rank
 -	Category
@@ -17,7 +18,6 @@ The dataset contains detailed information on global billionaires with fields inc
 -	CPI, GDP, Life Expectancy, Tax Revenue, Total Tax Rate, Population
 -	Current Date
 -	Age
-Dataset size: 1 Excel file with 24 columns and 476 rows
 
 ### Objectives / Questions
 The analysis answered the following questions;
