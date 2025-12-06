@@ -3,6 +3,8 @@
 ### Problem Statement
 To analyze global billionaire’s trends by exploring their distribution across countries and industries, alongside demographic factors like age, gender, self-made status. 
 
+---
+
 ### Dataset Description
 Dataset size: 1 Excel file with 24 columns and 476 rows <br>
 The dataset contains detailed information on global billionaires with fields including; 
@@ -19,6 +21,8 @@ The dataset contains detailed information on global billionaires with fields inc
 -	Current Date
 -	Age
 
+---
+
 ### Objectives / Questions
 The analysis answered the following questions;
 -	Which countries have the highest number of billionaires?
@@ -26,6 +30,8 @@ The analysis answered the following questions;
 -	What is the gender distribution of billionaires?
 -	What percentage of billionaires are self-made?
 -	What is the average age of billionaires?
+
+---
 
 ### Tools Used
 -	Microsoft Excel
@@ -35,6 +41,8 @@ The analysis answered the following questions;
   -	Slicers
   -	Dashboard Design
 
+---
+
 ### Data Cleaning Steps
 To prepare the dataset and ensure the quality of the data for analysis:
   -	Removed duplicates values.
@@ -42,6 +50,8 @@ To prepare the dataset and ensure the quality of the data for analysis:
   -	Standardized text fields (Gender: From M to Male & F to Female)
   -	Created a new column for Age (Age = Current Year – Birth Year)
   -	Ensured numerical fields were correctly formatted.
+
+---
 
 ### Exploratory Data Analysis (Pivot Tables & Charts)
 1.	Billionaires by Country
@@ -56,12 +66,15 @@ To prepare the dataset and ensure the quality of the data for analysis:
 -	Pivot showing the count of Self-made billionaires and those who inherited their wealth.
 -	Chart: Donut chart showing the percentage of self-made billionaires vs those who inherited their wealth
 
+---
 
 ### Key Insights & Visualizations
 -	The country with the highest number of billionaires is the United States.
 -	The most dominated industry is Finance & Investment.
 -	The average age of a billionaire is 70 years.
 -	65% of billionaires are self-made while the remaining 35% inherited their wealth
+
+---
 
 ### Summary
 This project provides a clear overview of global billionaire demographics using Excel.
