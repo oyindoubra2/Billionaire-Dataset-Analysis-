@@ -6,6 +6,8 @@ To analyze global billionaire’s trends by exploring their distribution across 
 ---
 
 ### Dataset Description
+<img width="1322" height="578" alt="Billionaire-dataset" src="https://github.com/user-attachments/assets/9086ff72-5fd6-45dc-a386-86175296431e" />
+
 Dataset size: 1 Excel file with 24 columns and 476 rows <br>
 The dataset contains detailed information on global billionaires with fields including; 
 -	Rank
@@ -54,6 +56,8 @@ To prepare the dataset and ensure the quality of the data for analysis:
 ---
 
 ### Exploratory Data Analysis (Pivot Tables & Charts)
+<img width="1094" height="503" alt="Pivot-table" src="https://github.com/user-attachments/assets/10660ff6-4f24-46b8-86fa-2f2b986f0d65" />
+
 1.	Billionaires by Country
   - Created a pivot table grouping billionaire counts by country
 2.	Billionaires by Industry
@@ -69,6 +73,8 @@ To prepare the dataset and ensure the quality of the data for analysis:
 ---
 
 ### Key Insights & Visualizations
+<img width="927" height="523" alt="Billionaire-Dashboard" src="https://github.com/user-attachments/assets/9eb89174-6728-47e4-9952-8107e9c10147" />
+
 -	The country with the highest number of billionaires is the United States.
 -	The most dominated industry is Finance & Investment.
 -	The average age of a billionaire is 70 years.
